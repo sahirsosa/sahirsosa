@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-¡Hola! 👋 Soy un apasionado estudiante de programación con una curiosidad infinita por la tecnología y un firme compromiso con el aprendizaje constante. Mi objetivo es superar expectativas, no solo destacarme sino sobresalir en cada proyecto en el que participo. 🚀<br>Me encanta explorar nuevas herramientas, enfrentar desafíos complejos y colaborar en proyectos innovadores que generen impacto. Tengo un deseo inquebrantable de contribuir a equipos donde pueda crecer, compartir ideas y marcar una diferencia real.<br>
+Hi there! 👋 I'm a passionate programming student with an insatiable curiosity for technology and a strong commitment to lifelong learning. My goal is not just to stand out but to excel in every project I take part in. 🚀
+I love exploring new tools, tackling complex challenges, and collaborating on innovative projects that make a real impact. I am driven by a relentless desire to contribute to teams where I can grow, share ideas, and make a difference.
+
+I see every project as an opportunity to learn, create, and achieve excellence. If you're looking for someone who's committed, energetic, and passionate about programming, I'm your person! I'm ready to take on new challenges with enthusiasm and determination.<br>
 
 
 
