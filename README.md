@@ -1,4 +1,6 @@
 ## Hi there 👋
+![presentacion](https://github.com/user-attachments/assets/aae2b862-58f8-4cc6-8b0d-1ccc64b51d19)
+
 # 💫 About Me:
 Hi there! 👋 I'm a passionate programming student with an insatiable curiosity for technology and a strong commitment to lifelong learning. My goal is not just to stand out but to excel in every project I take part in. 🚀
 I love exploring new tools, tackling complex challenges, and collaborating on innovative projects that make a real impact. I am driven by a relentless desire to contribute to teams where I can grow, share ideas, and make a difference.
